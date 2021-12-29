@@ -1,5 +1,10 @@
 # horiseon-challenge
 ## Code Refactor
+### Deployed link
+
+https://christiandc19.github.io/horiseon-challenge/
+
+![mockup screenshot](./assets/images/mockup.png)
 
 # General Info:
 * A marketing agency (Horiseon), wants their webpage meets accessibilty standard. The goal is to refactor the code to meet the Acceptance Criteria below:
